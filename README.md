@@ -1,8 +1,6 @@
-### App Icon
+### App Icon### App Icon
 
-<img src="./assets/AuroraMusic.jpeng" width="200" /># AuroraMusic
-
-AI-powered karaoke experience — simple, fun, and portable.
+<img src="./assets/AuroraMusic.png" width="200" />
 
 ---
 

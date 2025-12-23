@@ -1,4 +1,4 @@
-### App Icon### App Icon
+### App Icon
 
 <img src="./assets/AuroraMusic.png" width="200" />
 

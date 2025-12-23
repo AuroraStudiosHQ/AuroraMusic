@@ -1,38 +1,56 @@
-# AuroraMusic – Karaoke to go
+# AuroraMusic
 
-AuroraMusic is an AI-powered karaoke experience that lets you sing anywhere, anytime.  
-Smart vocal processing, instant backing tracks, and a clean mobile-first design.
+AI-powered karaoke experience — simple, fun, and portable.
 
-## 🎤 What is AuroraMusic?
-AuroraMusic transforms your phone into a portable karaoke machine.  
-Choose a song, sing along, and let the AI handle effects, timing, and backing tracks.
+---
 
-Built under the AuroraStudiosHQ umbrella, AuroraMusic focuses on:
+## 🚀 Vision
+
+AuroraMusic brings a modern, AI-enhanced karaoke experience to everyone.  
+The goal is to make singing accessible anywhere, anytime, without complicated setups or equipment.
+
+AuroraMusic focuses on:
 - simplicity  
 - creativity  
-- mobile-first performance  
-- AI-driven audio magic  
+- a smooth, enjoyable user experience  
 
-## 🚀 Core Features (in development)
-- AI-generated backing tracks  
-- Real-time vocal effects  
-- Pitch correction  
-- Offline mode  
-- Playlist builder  
-- Save & share recordings  
-- Clean, modern UI  
+---
 
-## 🧩 Part of AuroraStudiosHQ
-AuroraMusic is one of the core apps developed by **AuroraStudiosHQ**,  
-a multi-product studio building AI-powered apps for trading, music, and beyond.
+## ✨ Core Concept
 
-## 📅 Roadmap (short version)
-- v0.1 — Project setup & architecture  
-- v0.2 — Basic audio engine  
-- v0.3 — AI backing track generator  
-- v0.4 — Vocal effects & processing  
-- v0.5 — UI/UX prototype  
-- v1.0 — Public release  
+AuroraMusic provides a clean and intuitive environment for singing and enjoying music.  
+The app enhances the karaoke experience using AI-driven improvements while keeping the technical details private.
 
-## 📬 Contact
-More coming soon.
+---
+
+## 🧩 Product Status
+
+- **Stage:** Early concept / prototype  
+- **Target users:** People who enjoy singing casually or socially  
+- **Focus:** Mobile-first, lightweight, user-friendly  
+
+---
+
+## 📂 Repository Structure
+
+- **`/app`** – Main application  
+- **`/docs`** – Product notes, concepts, and documentation  
+- **`/assets`** – Branding, visuals, and UI elements  
+
+---
+
+## 📘 Documentation
+
+- [Documentation](./docs)  
+- Roadmap coming soon  
+
+---
+
+## 🌌 Part of AuroraStudiosHQ
+
+AuroraMusic is part of **AuroraStudiosHQ**, a multi-product studio building AI-powered apps for trading, music, and creators.
+
+Other products:
+- [AuroraTrading](https://github.com/AuroraStudiosHQ/AuroraTrading)  
+- [AuroraMusicStudio](https://github.com/AuroraStudiosHQ/AuroraMusicStudio)  
+- [AuroraStudiosHQ](https://github.com/AuroraStudiosHQ)

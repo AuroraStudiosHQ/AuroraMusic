@@ -2,55 +2,79 @@
 
 <img src="./assets/AuroraMusic.png" width="200" />
 
----
-
-## 🚀 Vision
-
-AuroraMusic brings a modern, AI-enhanced karaoke experience to everyone.  
-The goal is to make singing accessible anywhere, anytime, without complicated setups or equipment.
-
-AuroraMusic focuses on:
-- simplicity  
-- creativity  
-- a smooth, enjoyable user experience  
+# AuroraMusic  
+AI‑enhanced karaoke experience — simple, fun, and portable.
 
 ---
 
-## ✨ Core Concept
+## 🚀 Vision  
+AuroraMusic brings modern karaoke to everyone.  
+With AI‑powered vocal enhancement, smart pitch guidance, and a clean interface, AuroraMusic makes singing more fun, more accessible, and more creative.
 
-AuroraMusic provides a clean and intuitive environment for singing and enjoying music.  
-The app enhances the karaoke experience using AI-driven improvements while keeping the technical details private.
-
----
-
-## 🧩 Product Status
-
-- **Stage:** Early concept / prototype  
-- **Target users:** People who enjoy singing casually or socially  
-- **Focus:** Mobile-first, lightweight, user-friendly  
+More details: Vision
 
 ---
 
-## 📂 Repository Structure
+## ✅ Features (MVP)  
+🎤 Karaoke playback  
+🎚️ AI‑based vocal enhancement  
+📈 Live pitch visualization  
+🎵 Song library (local)  
+🌙 Dark/Light mode  
+🔐 Secure authentication  
 
-- **`/app`** – Main application  
-- **`/docs`** – Product notes, concepts, and documentation  
-- **`/assets`** – Branding, visuals, and UI elements  
-
----
-
-## 📘 Documentation
-
-- [Documentation](./docs)  
-- Roadmap coming soon  
+More details: Features
 
 ---
 
-## 🌌 Part of AuroraStudiosHQ
+## 🧠 Architecture  
+AuroraMusic is built on a modular, scalable architecture:
 
-AuroraMusic is part of **AuroraStudiosHQ**, a multi-product studio building AI-powered apps for trading, music, and creators.
+- Mobile App (Flutter)  
+- Audio Engine (Dart + native plugins)  
+- AI Layer (pitch detection, vocal enhancement)  
+- Cloud Storage (optional)  
+- Security Layer (auth, permissions)
 
-Other products:
-- [AuroraTrading](https://github.com/AuroraStudiosHQ/AuroraTrading)  
-- [AuroraMusicStudio](https://github.com/AuroraStudiosHQ/AuroraMusicStudio)  
-- [AuroraStudiosHQ](https://github.com/AuroraStudiosHQ)
+More details: Architecture
+
+---
+
+## 🔌 Audio/AI Plan  
+- Pitch detection  
+- Vocal enhancement  
+- Reverb & effects  
+- Timing analysis  
+- Song metadata  
+- Recording export  
+
+More details: Audio/AI Plan
+
+---
+
+## 🖼️ App Icons  
+AuroraMusic uses a gradient‑based icon aligned with the Aurora branding system.
+
+All required sizes and formats:  
+👉 App Icons Documentation
+
+---
+
+## 🗺️ Roadmap  
+✅ Branding  
+✅ GitHub setup  
+⬜ Upload app icons  
+⬜ Finalize MVP  
+⬜ Build audio engine  
+⬜ Implement pitch detection  
+⬜ Start mobile app  
+⬜ Beta release  
+⬜ Launch v1.0  
+
+More details: Roadmap
+
+---
+
+## 📬 Contact  
+Founder: Miguel Marquez‑Tiegs  
+GitHub: @AuroraStudiosHQ

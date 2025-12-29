@@ -64,10 +64,10 @@ All required sizes and formats:
 ✅ Branding  
 ✅ GitHub setup  
 ✅ Upload app icons  
-⬜ Finalize MVP  
+✅ Finalize MVP  
 ⬜ Build audio engine  
 ⬜ Implement pitch detection  
-⬜ Start mobile app  
+✅ Start mobile app  
 ⬜ Beta release  
 ⬜ Launch v1.0  
 
